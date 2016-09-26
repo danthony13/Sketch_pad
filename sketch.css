@@ -1,0 +1,18 @@
+#container{
+height: 390px;
+width: 390px;
+background-color: black;
+}
+
+.square{
+height: 20px;
+width:20px;
+background-color: blue;
+margin: 2px;
+display: inline-block;
+float: left;
+}
+
+#on{
+background-color: red;
+}
